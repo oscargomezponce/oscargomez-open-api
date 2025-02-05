@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: black; /* Star Wars theme */
+    background-color: black;
     color: white;
     text-align: center;
     margin: 20px;
@@ -9,7 +9,7 @@ body {
 h1 {
     font-size: 24px;
     margin-bottom: 20px;
-    color: yellow; /* Star Wars yellow */
+    color: yellow;
 }
 
 ul {
@@ -18,7 +18,7 @@ ul {
 }
 
 li {
-    background: #222; /* Dark grey background */
+    background: #222;
     padding: 10px;
     margin: 5px auto;
     width: 50%;
